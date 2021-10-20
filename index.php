@@ -25,6 +25,6 @@
     </p>
         
 </div>
-
+<button type="button" class="btn btn-warning"><a href="rekt.php">Ne pas cliquer</a></button>
 </body>
 </html> 
